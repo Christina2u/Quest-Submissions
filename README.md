@@ -1,2 +1,2 @@
 # Quest-Submissions
-Emerald Academy Quest submissions 
+Emerald Academy Quest Submissions 
